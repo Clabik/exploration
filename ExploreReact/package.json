@@ -1,0 +1,13 @@
+{
+  "name": "explore_react",
+  "version": "1.0.0",
+  "description": "Project to learn React",
+  "main": "src/index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Anthony Shen",
+  "license": "ISC"
+}
